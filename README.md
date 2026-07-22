@@ -1,2 +1,2 @@
-# hybrid-fraud-detection-ml-algorithm
-upi fraud detection using ml algorithms
+# FraudFusion: An Intelligent Hybrid Framework for Digital Payment Fraud Detection
+**FraudFusion++** is a multi-layered, real-time UPI fraud detection framework that fuses unsupervised anomaly detection (**Isolation Forest**), supervised gradient boosting (**CatBoost**), and a rule-based expert engine (**ARDE**). By combining machine learning pattern recognition with real-world financial heuristics (amount thresholds and timing penalties), it catches both recurring fraud tactics and novel zero-day anomalies—all while maintaining high accuracy and preventing false alarms on everyday legitimate payments.
